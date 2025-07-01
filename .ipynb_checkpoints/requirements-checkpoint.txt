@@ -1,0 +1,13 @@
+gensim
+nltk
+matplotlib
+seaborn
+jupyterlab
+scikit-learn
+pandas
+scipy
+# annoy
+requests
+transformers
+accelerate
+streamlit 
